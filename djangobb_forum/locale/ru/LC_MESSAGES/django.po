@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DjangoBB\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-04 23:10+0700\n"
+"POT-Creation-Date: 2013-05-05 00:29+0700\n"
 "PO-Revision-Date: 2012-02-14 08:21+0000\n"
 "Last-Translator: slav0nic <slav0nic0@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -191,7 +191,9 @@ msgstr "Напишите каждый ответ в новой строке"
 
 #: forms.py:446
 msgid "Number of days for this poll to run. Leave empty for never ending poll."
-msgstr "Число дней до окончания голосования. Оставьте пустым, если голосование длится бесконечно"
+msgstr ""
+"Число дней до окончания голосования. Оставьте пустым, если голосование "
+"длится бесконечно"
 
 #: forms.py:463
 msgid "There is no valid answer!"
@@ -416,7 +418,9 @@ msgstr "Запретить уведомления"
 
 #: models.py:317
 msgid "Auto subscribe all topics you have created or reply."
-msgstr "Автоматически подписываться на все темы, которые вы создали или на которые ответили"
+msgstr ""
+"Автоматически подписываться на все темы, которые вы создали или на которые "
+"ответили"
 
 #: models.py:318
 msgid "Default markup"
@@ -1348,7 +1352,7 @@ msgstr "Новый ответ"
 #: templates/djangobb_forum/includes/post_form.html:19
 #, fuzzy
 msgid "Create a poll"
-msgstr "Дата создания"
+msgstr "Создать опрос"
 
 #: templates/djangobb_forum/includes/post_form.html:31
 msgid "Write your message and submit"
