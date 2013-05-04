@@ -1107,7 +1107,7 @@ msgstr "Голосование"
 #: templates/djangobb_forum/topic.html:32
 #, python-format
 msgid "(%(count)s answers allows.)"
-msgstr "(%Разрешено (count)s вариантов ответов.)"
+msgstr "(Разрешено %(count)s вариантов ответов.)"
 
 #: templates/djangobb_forum/topic.html:35
 msgid "Vote"
